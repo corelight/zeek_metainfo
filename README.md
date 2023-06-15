@@ -47,7 +47,8 @@ One note about the "html" output - to use with most environments you will need t
 
 ## Roadmap
 
-strip out CL stuff!
+Add tests!
+
 JSONExtras is a bit of a hack, would be better to be able to add "as-if" it were in the record walk, then it would flow into RST, Avro, ... not just into JSON Schema
 
 The JSON schemea is somewhat version dependent, would like it set it to the most commonly supported version.

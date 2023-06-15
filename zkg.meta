@@ -1,0 +1,4 @@
+[package]
+description = create schemas in many forms for local Zeek installation/configuration
+test_command = (cd testing && btest -d)
+script_dir = scripts

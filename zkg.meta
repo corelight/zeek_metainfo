@@ -1,4 +1,5 @@
 [package]
-description = create schemas in many forms for local Zeek installation/configuration
+description = Create schemas in many forms for local Zeek installation/configuration.  JSON, markup text, Avro, html so far.
+tags = schema, docs, json, avro
 test_command = (cd testing && btest -d)
 script_dir = scripts
